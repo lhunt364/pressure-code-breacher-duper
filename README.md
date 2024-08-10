@@ -1,5 +1,6 @@
-# pressure-code-breacher-duper
-This is a tool for consistently and easily performing a dupe bug for code breachers in the Roblox game Pressure.
+# pressure-code-breacher-duper [PATCHED]
+As of the "Friendly Fire" update, the bug this tool exploited has been patched. This repo will remain public regardless.
+
 ## How to start using
 1. Select one of the versions in Releases (i.e. v1).
 2. Download and extract CodeBreacherDuper.zip.
